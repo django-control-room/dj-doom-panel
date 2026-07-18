@@ -15,7 +15,7 @@ class DoomPanel(PanelPlugin):
     icon_color = "danger"
 
     app_name = "dj_doom_panel"
-    docs_url = "https://github.com/yassi/dj-doom-panel"
+    docs_url = "https://github.com/django-control-room/dj-doom-panel"
     pypi_url = "https://pypi.org/project/dj-doom-panel/"
 
     def get_config(self):

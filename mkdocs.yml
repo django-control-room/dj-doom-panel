@@ -1,10 +1,10 @@
 site_name: DJ Doom Panel
 site_description: Kill hordes of demons as the doomslayer
 site_author: Yasser Toruno
-site_url: https://yassi.github.io/dj-doom-panel/
+site_url: https://django-control-room.github.io/dj-doom-panel/
 
-repo_name: yassi/dj-doom-panel
-repo_url: https://github.com/yassi/dj-doom-panel
+repo_name: django-control-room/dj-doom-panel
+repo_url: https://github.com/django-control-room/dj-doom-panel
 
 theme:
   name: material

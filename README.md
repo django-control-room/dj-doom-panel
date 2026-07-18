@@ -1,5 +1,5 @@
-[![Tests](https://github.com/yassi/dj-doom-panel/actions/workflows/test.yml/badge.svg)](https://github.com/yassi/dj-doom-panel/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/yassi/dj-doom-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/yassi/dj-doom-panel)
+[![Tests](https://github.com/django-control-room/dj-doom-panel/actions/workflows/test.yml/badge.svg)](https://github.com/django-control-room/dj-doom-panel/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/django-control-room/dj-doom-panel/branch/main/graph/badge.svg)](https://codecov.io/gh/django-control-room/dj-doom-panel)
 [![PyPI version](https://badge.fury.io/py/dj-doom-panel.svg)](https://badge.fury.io/py/dj-doom-panel)
 [![Python versions](https://img.shields.io/pypi/pyversions/dj-doom-panel.svg)](https://pypi.org/project/dj-doom-panel/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -9,7 +9,7 @@
 
 # Django Doom Panel
 
-![dj-doom-panel](https://raw.githubusercontent.com/yassi/dj-doom-panel/main/images/dj-doom-panel.png)
+![dj-doom-panel](https://raw.githubusercontent.com/django-control-room/dj-doom-panel/main/images/dj-doom-panel.png)
 
 **The Django admin panel that matters.**
 
@@ -52,7 +52,7 @@ urlpatterns = [
 ]
 ```
 
-That's it. Open your admin. Click DOOM.
+That's it. Open your admin. Click DOOM. Enjoy.
 
 ---
 
@@ -99,7 +99,7 @@ Superusers always bypass group checks.
 
 ## How it works
 
-![DOOM gameplay in Django admin](https://raw.githubusercontent.com/yassi/dj-doom-panel/main/images/doom-gameplay.png)
+![DOOM gameplay in Django admin](https://raw.githubusercontent.com/django-control-room/dj-doom-panel/main/images/doom-gameplay.png)
 
 The panel embeds [js-dos v8](https://js-dos.com) — a DOSBox-powered DOS emulator that runs in the browser via WebAssembly. The game bundle (`DOOM1.WAD` + `DOOM.EXE`) is the **DOOM shareware v1.9**, which id Software has explicitly made freely distributable.
 

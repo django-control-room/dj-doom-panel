@@ -52,7 +52,7 @@ urlpatterns = [
 ]
 ```
 
-That's it. Open your admin. Click DOOM.
+That's it. Open your admin. Click DOOM. Enjoy.
 
 ---
 

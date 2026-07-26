@@ -16,7 +16,7 @@ DJ_DOOM_PANEL_SETTINGS = {
 
 ## Access control
 
-Permission enforcement is provided by [dj-control-room-base](https://github.com/yassi/dj-control-room-base). By default, any staff user (`is_staff=True`) can access the panel. Anonymous users are redirected to the Django admin login.
+Permission enforcement is provided by [dj-control-room-base](https://github.com/django-control-room/dj-control-room-base). By default, any staff user (`is_staff=True`) can access the panel. Anonymous users are redirected to the Django admin login.
 
 | Setting | Type | Default | Description |
 |---|---|---|---|

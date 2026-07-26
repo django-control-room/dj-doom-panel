@@ -4,7 +4,7 @@
 [![Python versions](https://img.shields.io/pypi/pyversions/dj-doom-panel.svg)](https://pypi.org/project/dj-doom-panel/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/pypi/dm/dj-doom-panel.svg)](https://pypi.org/project/dj-doom-panel/)
-[![Django Control Room Panel](https://img.shields.io/badge/Django%20Control%20Room-Panel-0c4b33?logo=django)](https://github.com/yassi/dj-control-room)
+[![Django Control Room Panel](https://img.shields.io/badge/Django%20Control%20Room-Panel-0c4b33?logo=django)](https://github.com/django-control-room/dj-control-room)
 
 
 # Django Doom Panel
@@ -71,7 +71,7 @@ DJ_DOOM_PANEL_SETTINGS = {
 
 ### Access control
 
-By default, any staff user can access the panel. The permission settings below are inherited from [dj-control-room-base](https://github.com/yassi/dj-control-room-base).
+By default, any staff user can access the panel. The permission settings below are inherited from [dj-control-room-base](https://github.com/django-control-room/dj-control-room-base).
 
 | Setting | Type | Default | Description |
 |---|---|---|---|
@@ -92,8 +92,8 @@ Superusers always bypass group checks.
 ## Requirements
 
 - Django 4.2+
-- [dj-control-room](https://github.com/yassi/dj-control-room) >= 1.3.0
-- [dj-control-room-base](https://github.com/yassi/dj-control-room-base) >= 1.0.0
+- [dj-control-room](https://github.com/django-control-room/dj-control-room) >= 1.3.0
+- [dj-control-room-base](https://github.com/django-control-room/dj-control-room-base) >= 1.0.0
 
 ---
 
@@ -125,7 +125,7 @@ If your project uses a Content Security Policy, you'll need to allow `v8.js-dos.
 
 ## Part of the dj-control-room ecosystem
 
-`dj-doom-panel` is a plugin for [dj-control-room](https://github.com/yassi/dj-control-room), a framework for building operational admin panels in Django. Other panels in the ecosystem include cache inspection, Redis monitoring, and Celery queue management.
+`dj-doom-panel` is a plugin for [dj-control-room](https://github.com/django-control-room/dj-control-room), a framework for building operational admin panels in Django. Other panels in the ecosystem include cache inspection, Redis monitoring, and Celery queue management.
 
 All critically important, of course.
 

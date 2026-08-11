@@ -12,15 +12,15 @@ The panel embeds [js-dos v8](https://js-dos.com), a DOSBox-powered DOS emulator 
 
 ## Quick links
 
-- [Installation](installation.md)
-- [Configuration](configuration.md)
+- [Installation](https://django-control-room.github.io/dj-doom-panel/installation/)
+- [Configuration](https://django-control-room.github.io/dj-doom-panel/configuration/)
 
 ## Requirements
 
 - Python 3.9+
 - Django 4.2+
-- [dj-control-room-base](https://github.com/django-control-room/dj-control-room-base) >= 1.0.0
-- [dj-control-room](https://github.com/django-control-room/dj-control-room) >= 1.3.0
+- [dj-control-room-base](https://django-control-room.github.io/dj-control-room-base/) >= 1.0.0
+- [dj-control-room](https://django-control-room.github.io/dj-control-room/) >= 1.3.0
 
 ## License
 

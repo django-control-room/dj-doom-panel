@@ -12,8 +12,8 @@ The panel embeds [js-dos v8](https://js-dos.com), a DOSBox-powered DOS emulator 
 
 ## Quick links
 
-- [Installation](https://django-control-room.github.io/dj-doom-panel/installation/)
-- [Configuration](https://django-control-room.github.io/dj-doom-panel/configuration/)
+- [Installation](installation.md)
+- [Configuration](configuration.md)
 
 ## Requirements
 
